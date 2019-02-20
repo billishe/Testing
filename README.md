@@ -10,7 +10,7 @@ The files are organizaed as:
 <li>TestChat</li>
 <li>TestAdd</li>
 <li>TestGetNotification</li>
-<ul>
+</ul>
 <b>Integration testing</b>
 </p>
 
