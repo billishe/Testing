@@ -7,11 +7,7 @@ The files are organizaed as:
     TestAdd
     TestGetNotification
   Integration testing
-Abdi Nuredin
+
 Billion shiferaw
-Biniam Tekle
-Biruk Negasa
-Kalkidan Dejenu
-Sihul Tibeb
-Yididya Goitom
+
 
