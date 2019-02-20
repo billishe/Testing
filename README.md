@@ -1,13 +1,15 @@
 # Testing
-<h1>Unit and integration testing for ComBook</h1>
-The files are organizaed as:
-  Unit Testing:
-    TestAssign
-    TestChat
-    TestAdd
-    TestGetNotification
-  Integration testing
 
-Billion shiferaw
+<h3>Unit and integration testing for ComBook</h3>
+
+The files are organizaed as:
+  <P><b>Unit Testing:</b>
+    <ul><li>TestAssign</li>
+    <li>TestChat</li>
+    <li>TestAdd</li>
+    <li>TestGetNotification</li>
+    <li>Integration testing</li><ul>
+
+<i>Billion shiferaw</i>
 
 
