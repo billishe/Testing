@@ -7,9 +7,10 @@ The files are organizaed as:
     <ul><li>TestAssign</li>
     <li>TestChat</li>
     <li>TestAdd</li>
-    <li>TestGetNotification</li>
-    <li>Integration testing</li><ul>
-
+    <li>TestGetNotification</li><ul>
+    <b>Integration testing</b>
+</p>
+<p>
 <i>Billion shiferaw</i>
-
+</p>
 
